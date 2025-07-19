@@ -1,2 +1,2 @@
 # demo
-this is created on 19 july 2025.
+This is created on <strong>19 July 2025</strong>.
